@@ -1,0 +1,12 @@
+D:\К\Prac\TRPO-Practic\TRPO-Practic\ClassLibrary1\bin\Debug\net6.0\TRPOPractic.Lib.deps.json
+D:\К\Prac\TRPO-Practic\TRPO-Practic\ClassLibrary1\bin\Debug\net6.0\TRPOPractic.Lib.dll
+D:\К\Prac\TRPO-Practic\TRPO-Practic\ClassLibrary1\bin\Debug\net6.0\TRPOPractic.Lib.pdb
+D:\К\Prac\TRPO-Practic\TRPO-Practic\ClassLibrary1\obj\Debug\net6.0\TRPOPractic.Lib.csproj.AssemblyReference.cache
+D:\К\Prac\TRPO-Practic\TRPO-Practic\ClassLibrary1\obj\Debug\net6.0\TRPOPractic.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\К\Prac\TRPO-Practic\TRPO-Practic\ClassLibrary1\obj\Debug\net6.0\TRPOPractic.Lib.AssemblyInfoInputs.cache
+D:\К\Prac\TRPO-Practic\TRPO-Practic\ClassLibrary1\obj\Debug\net6.0\TRPOPractic.Lib.AssemblyInfo.cs
+D:\К\Prac\TRPO-Practic\TRPO-Practic\ClassLibrary1\obj\Debug\net6.0\TRPOPractic.Lib.csproj.CoreCompileInputs.cache
+D:\К\Prac\TRPO-Practic\TRPO-Practic\ClassLibrary1\obj\Debug\net6.0\TRPOPractic.Lib.dll
+D:\К\Prac\TRPO-Practic\TRPO-Practic\ClassLibrary1\obj\Debug\net6.0\refint\TRPOPractic.Lib.dll
+D:\К\Prac\TRPO-Practic\TRPO-Practic\ClassLibrary1\obj\Debug\net6.0\TRPOPractic.Lib.pdb
+D:\К\Prac\TRPO-Practic\TRPO-Practic\ClassLibrary1\obj\Debug\net6.0\ref\TRPOPractic.Lib.dll

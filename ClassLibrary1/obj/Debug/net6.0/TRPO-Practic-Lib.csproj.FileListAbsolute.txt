@@ -1,0 +1,5 @@
+D:\К\Prac\TRPO-Practic\TRPO-Practic\ClassLibrary1\obj\Debug\net6.0\TRPO-Practic-Lib.csproj.AssemblyReference.cache
+D:\К\Prac\TRPO-Practic\TRPO-Practic\ClassLibrary1\obj\Debug\net6.0\TRPO-Practic-Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\К\Prac\TRPO-Practic\TRPO-Practic\ClassLibrary1\obj\Debug\net6.0\TRPO-Practic-Lib.AssemblyInfoInputs.cache
+D:\К\Prac\TRPO-Practic\TRPO-Practic\ClassLibrary1\obj\Debug\net6.0\TRPO-Practic-Lib.AssemblyInfo.cs
+D:\К\Prac\TRPO-Practic\TRPO-Practic\ClassLibrary1\obj\Debug\net6.0\TRPO-Practic-Lib.csproj.CoreCompileInputs.cache

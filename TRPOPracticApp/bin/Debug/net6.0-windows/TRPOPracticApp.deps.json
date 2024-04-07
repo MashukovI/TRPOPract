@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TRPOPracticApp/1.0.0": {
+        "dependencies": {
+          "TRPOPractic.Lib": "1.0.0"
+        },
+        "runtime": {
+          "TRPOPracticApp.dll": {}
+        }
+      },
+      "TRPOPractic.Lib/1.0.0": {
+        "runtime": {
+          "TRPOPractic.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TRPOPracticApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TRPOPractic.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TRPOPractic.Lib", "ClassLibrary1\TRPOPractic.Lib.csproj", "{E831BD8F-A5A5-4CAC-91A7-104D103F3CC0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TRPO-Practic.Tests", "TRPO-Practic-Tests\TRPO-Practic.Tests.csproj", "{59E4227C-BB5A-44EF-B547-96DDBEFB3396}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TRPOPracticApp", "TRPOPracticApp\TRPOPracticApp.csproj", "{32DEA25B-EFF4-4C4E-AF73-9B70E82334B9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TRPOLab.Setup", "TRPOLab.Setup\TRPOLab.Setup.vdproj", "{C84CF17C-38DB-4AC4-B4EE-9C71275BF17A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E831BD8F-A5A5-4CAC-91A7-104D103F3CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E831BD8F-A5A5-4CAC-91A7-104D103F3CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E831BD8F-A5A5-4CAC-91A7-104D103F3CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E831BD8F-A5A5-4CAC-91A7-104D103F3CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59E4227C-BB5A-44EF-B547-96DDBEFB3396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E4227C-BB5A-44EF-B547-96DDBEFB3396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E4227C-BB5A-44EF-B547-96DDBEFB3396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E4227C-BB5A-44EF-B547-96DDBEFB3396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32DEA25B-EFF4-4C4E-AF73-9B70E82334B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32DEA25B-EFF4-4C4E-AF73-9B70E82334B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32DEA25B-EFF4-4C4E-AF73-9B70E82334B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32DEA25B-EFF4-4C4E-AF73-9B70E82334B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C84CF17C-38DB-4AC4-B4EE-9C71275BF17A}.Debug|Any CPU.ActiveCfg = Debug
+		{C84CF17C-38DB-4AC4-B4EE-9C71275BF17A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D9DC0B5-93D0-40C1-829A-1FC4FB799033}
+	EndGlobalSection
+EndGlobal
